@@ -11,4 +11,5 @@ de acuerdo a Spotify.
 
 Muestre los primeros 10 artistas ordenados alfabéticamente
 
-Con el comando df.head(10) se mostrará los primeros 10 artistas ordenados por orden alfabetico
+Con el comando df.head(10) se mostrará los primeros 10 artistas ordenados por orden alfabetico.
+.
